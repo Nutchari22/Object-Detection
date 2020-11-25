@@ -1,2 +1,4 @@
-# Image-Video(INPUT)
-def input image_and_video
+# (INPUT) Image-Video
+
+Project file for input image&video
+
