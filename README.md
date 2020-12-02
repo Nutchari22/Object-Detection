@@ -1,4 +1,4 @@
 # (INPUT) Image-Video
 
-Project file for input image&video
+Project file for input image&video Object Detection
 
